@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Genesis of Aquarion",
+  "base_artist": "AKINO",
+  "createdAt": "2026-01-14T00:45:52.856435Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/01_Genesis_of_Aquarion_AKINO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion",
+      "artist": "AKINO from bless4",
+      "has_synced": true,
+      "path": "select/02_Genesis_of_Aquarion_AKINO_from_bless4.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion (Live)",
+      "artist": "Platina Jazz feat. Emily Mcewan",
+      "has_synced": false,
+      "path": "select/03_Genesis_of_Aquarion_(Live)_Platina_Jazz_feat._Emily_Mcewan.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion [創聖のアクエリオン]",
+      "artist": "ANIME THAT JAZZ",
+      "has_synced": false,
+      "path": "select/04_Genesis_of_Aquarion_[創聖のアクエリオン]_ANIME_THAT_JAZZ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion",
+      "artist": "AKINO featuring bless4",
+      "has_synced": true,
+      "path": "select/05_Genesis_of_Aquarion_AKINO_featuring_bless4.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion(「創聖のアクエリオン」より)",
+      "artist": "Rasmus Faber Presents Presents platina Jazz",
+      "has_synced": false,
+      "path": "select/06_Genesis_of_Aquarion(「創聖のアクエリオン」より)_Rasmus_Faber_Presents_Presents_platina_Jazz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion",
+      "artist": "Faber, Rasmus presents Platina Jazz feat. McEwan, Emily",
+      "has_synced": false,
+      "path": "select/07_Genesis_of_Aquarion_Faber,_Rasmus_presents_Platina_Jazz_feat._McEwan,_Emily.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/08_Genesis_of_Aquarion_AKINO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion",
+      "artist": "AKINO",
+      "has_synced": true,
+      "path": "select/09_Genesis_of_Aquarion_AKINO.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion",
+      "artist": "AKINO featuring bless4",
+      "has_synced": true,
+      "path": "select/10_Genesis_of_Aquarion_AKINO_featuring_bless4.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion (feat. Emily McEwan) - Live",
+      "artist": "Platina Jazz",
+      "has_synced": false,
+      "path": "select/11_Genesis_of_Aquarion_(feat._Emily_McEwan)_-_Live_Platina_Jazz.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion",
+      "artist": "Platina Jazz: Anime Standards Vol. 1",
+      "has_synced": false,
+      "path": "select/12_Genesis_of_Aquarion_Platina_Jazz__Anime_Standards_Vol._1.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion",
+      "artist": "Platina Jazz",
+      "has_synced": false,
+      "path": "select/13_Genesis_of_Aquarion_Platina_Jazz.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Genesis of Aquarion",
+      "artist": "AKINO",
+      "has_synced": false,
+      "path": "select/14_Genesis_of_Aquarion_AKINO.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Genesis of Aquarion",
+      "artist": "AKINO",
+      "has_synced": false,
+      "path": "select/pl_01_Genesis_of_Aquarion_AKINO.txt"
+    }
+  ]
+}
